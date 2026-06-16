@@ -1,0 +1,9 @@
+id,tanggal,produk,jumlah_terjual,harga_satuan,wilayah
+1,2026-01-15,Laptop,5,15000000,Jakarta
+2,2026-02-10,Mouse,50,200000,Bandung
+3,2026-03-05,Laptop,2,15000000,Surabaya
+4,2026-04-12,Monitor,10,2500000,Jakarta
+5,2026-05-20,Mouse,30,200000,Bandung
+6,2026-06-15,Laptop,3,15000000,Jakarta
+7,2026-07-22,Monitor,5,2500000,Surabaya
+8,2026-08-10,Mouse,20,200000,Jakarta
